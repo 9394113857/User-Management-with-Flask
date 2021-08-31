@@ -1,0 +1,4 @@
+Project Interpreter:-
+Ctrl + Alt + S
+This command creates the requirements.txt file and added by required dependencies:-
+pip freeze > requirements.txt
